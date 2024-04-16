@@ -6,4 +6,4 @@ I got the template from WE3 Schools here is the Link: https://www.w3schools.com/
 
 W3 Schools is a great resource of information about various languages and varying skill levels, which I have used to research many things related to my studies and when I have given coding a go myself
 
-
+As this is an HTML file it can be opened with a "Live Server". I have run this from VS Code
